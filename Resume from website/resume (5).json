@@ -1,0 +1,137 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "work": "",
+    "projects": ""
+  },
+  "basics": {
+    "email": "arpit.marwah19@gmail.com",
+    "phone": "+91 9919557936",
+    "name": "Arpit Marwah",
+    "website": "https://in.linkedin.com/in/arpitmarwah"
+  },
+  "education": [
+    {
+      "location": "Jabalpur, Madhya Pradesh, India",
+      "area": "Electronics and Communication Engineering",
+      "endDate": "July, 2022",
+      "institution": "Indian Institute of Information Technology, Design and  Manufacturing",
+      "gpa": "8.9/10",
+      "startDate": "August, 2018",
+      "studyType": "Bachelor of Technology"
+    },
+    {
+      "institution": "St. Paul's College",
+      "location": "Lucknow, Uttar Pradesh, India",
+      "studyType": "Higher Secondary Certificate [Class: 12th ISC]",
+      "gpa": "93.2%",
+      "startDate": "April 2016",
+      "endDate": "May, 2017"
+    },
+    {
+      "institution": "St. Paul's College",
+      "studyType": "Secondary School Certificate [Class: 10th ICSE]",
+      "location": "Lucknow, Uttar Pradesh, India",
+      "gpa": "96%",
+      "startDate": "April, 2014",
+      "endDate": "May, 2015"
+    }
+  ],
+  "work": [
+    {
+      "highlights": [
+        null,
+        "Development of microservices, and feature implementations for clients",
+        "Worked along with other trainees in building a web application to automate the process of buying/selling of stocks in financial markets for a trader/investor",
+        "Tech stack involving Java, Spring Boot, REST API, Microservices, Unit Testing - JUNIT5, Mockito"
+      ],
+      "company": "Publicis Sapient",
+      "position": "Associate Software Development Engineer 1",
+      "location": "Gurgaon, Haryana, India",
+      "startDate": "July, 2022",
+      "endDate": "Present"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "Data Structures and Algorithms",
+        "Java 8 Features",
+        "OOPs, Collections"
+      ],
+      "name": "Java"
+    },
+    {
+      "keywords": [
+        "Spring Framework, Spring Boot",
+        "REST API",
+        "Unit Testing - JUNIT & Mockito"
+      ],
+      "name": "Back-end Development"
+    },
+    {
+      "keywords": [
+        "HTML, CSS, JavaScript",
+        "React"
+      ],
+      "name": "Front-end Development"
+    }
+  ],
+  "projects": [
+    {
+      "keywords": [
+        null
+      ],
+      "name": "Super market web app using React",
+      "description": "Super Market webapp with different routes such as Home, About, Products and Cart page. Different grocery products rendered from an external API, in the Products section as functional components, with the help of custom defined useFetch component. Implemented functionality to add/delete products in the cart, and render their summarized details in the Cart page",
+      "url": "https://github.com/arpitmarwah/React-supermarket-app/tree/master"
+    },
+    {
+      "name": "Stock Trading Web Application",
+      "url": "",
+      "keywords": [
+        ""
+      ],
+      "description": "Worked along with other trainees in building a web application to  automate the process of buying/selling of stocks in financial markets  for a trader/investor. Roles and Responsibilities: Worked on the Backend Development of the  Microservices for the application, on technologies like Java, Spring  Boot, REST API, Hibernate, SQL and JUNIT Testing"
+    }
+  ],
+  "awards": [
+    {
+      "summary": "(Certificates at https://www.linkedin.com/in/arpitmarwah/)"
+    },
+    {
+      "title": "React Certification",
+      "date": "August 3, 2023",
+      "awarder": "REACT-TUTORIAL.APP",
+      "summary": "Completed interactive react course with provided supermarket web app project"
+    },
+    {
+      "summary": "Completed interactive JavaScript course",
+      "awarder": "Learn JavaScript Online",
+      "title": "JavaScript Certification"
+    },
+    {
+      "awarder": "AWS",
+      "title": "AWS Certified Cloud Practitioner",
+      "summary": "Passed AWS Certified Cloud Practitioner Exam"
+    },
+    {
+      "summary": "Outstanding grade in Digital Electronics course during B.Tech. 2nd Year 2019",
+      "title": "O Grade in a Course"
+    },
+    {
+      "title": "Full Marks in CS",
+      "summary": "100% marks in Computer Science in Class 12th ISC Board Exams 2017"
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "skills",
+    "projects",
+    "work",
+    "education",
+    "awards"
+  ]
+}
